@@ -1,0 +1,16 @@
+---
+  ubu:
+    hosts:
+      ubuntu:
+        name: "{{ docker_result.ansible_facts.docker_containers[0].Config.Hostname }}"
+        groups: "docker-container"
+        ansible_connection: docker
+        remote_user: "root"
+        ansible_user: root
+#        ansible_ssh_user: "root"
+#        ansible_become_user: "root"
+#        ansible_become: "yes"
+  el:
+    hosts:
+      centos7:
+        ansible_connection: docker
