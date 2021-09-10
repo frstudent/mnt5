@@ -1,6 +1,7 @@
 ---
 - name: Install Java
   hosts: all
+  debugger: on_failed
   tasks:
     - name: Set facts for Java 11 vars
       set_fact:
@@ -36,7 +37,7 @@
         dest: /etc/profile.d/jdk.sh
       tags: java
 - name: Install Elasticsearch
-  hosts: elasticsearch
+  hosts: frc1
   tasks:
     - name: Upload tar.gz Elasticsearch from remote URL
       get_url:
@@ -49,11 +50,14 @@
       register: get_elastic
       until: get_elastic is succeeded
       tags: elastic
+
     - name: Create directrory for Elasticsearch
+      become: true
       file:
         state: directory
         path: "{{ elastic_home }}"
       tags: elastic
+
     - name: Extract Elasticsearch in the installation directory
       become: true
       unarchive:
@@ -70,3 +74,47 @@
         src: templates/elk.sh.j2
         dest: /etc/profile.d/elk.sh
       tags: elastic
+- name: Install Kibana
+  hosts: frc1
+  debugger: on_failed
+  tasks:
+    - name: Check if Kibana already downloaded
+      stat:
+        path: "/tmp/kibana-{{ kibana_version }}-linux-x86_64.tar.gz"
+      register: kiload
+      tags: kibana
+    - name: Uploaad Kibana form remote URL
+      get_url: 
+        url: "https://artifacts.elastic.co/downloads/kibana/kibana-{{ kibana_version }}-linux-x86_64.tar.gz"
+        dest: "/tmp/kibana-{{ kibana_version }}-linux-x86_64.tar.gz"
+        mode: 0666
+        timeout: 60
+        force: true
+        validate_certs: false
+      register: get_kibana
+      when: not kiload.stat.exists
+      until: get_kibana is succeeded
+      tags: kibana
+    - name: Create directory for Kibana
+      become: true
+      file:
+        state: directory
+        path: "{{ kibana_home }}"
+      tags: kibana
+    - name: Extract Kibana to the installation directory
+      become: true
+      unarchive:
+        copy: false
+        src: "/tmp/kibana-{{ kibana_version }}-linux-x86_64.tar.gz"
+        mode: 0755
+        dest: "{{ kibana_home }}"
+        extra_opts: [--strip-components=1]
+        creates: "{{ kibana_home }}/bin/kibana"
+      tags: kibana
+    - name: Set Kibana environment
+      become: true
+      template:
+        src:  templates/kib.sh.j2
+        dest: /etc/profile.d/kib.sh
+      tags: kibana
+

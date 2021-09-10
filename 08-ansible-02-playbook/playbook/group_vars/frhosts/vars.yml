@@ -1,5 +1,5 @@
 ---
 elastic_version: "7.10.1"
 elastic_home: "/opt/elastic/{{ elastic_version }}"
-kibana_version: "7.10.1"
+kibana_version: "7.14.1"
 kibana_home: "/opt/kibana/{{ kibana_version }}"
