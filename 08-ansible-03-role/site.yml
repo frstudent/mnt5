@@ -1,0 +1,8 @@
+---
+  - name: Assert all roles
+    hosts: all
+    roles:
+      - java
+      - elastic
+      - kibana
+
