@@ -4,6 +4,6 @@
 
 Предполагается что docker уже установлен. 
 
-1. Cкрипт pre_docekr.sh создаёт и стартёт три контейнера - centos7, debian, centos8
+1. Cкрипт pre_docekr.sh создаёт и стартуёт три контейнера - centos7, debian, centos8
 2. Скрипт pre.sh загружает роли из репозиториев.
 3. Скрипт r.sh запуксает Playbook.
