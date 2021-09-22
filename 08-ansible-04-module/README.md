@@ -13,7 +13,6 @@
   tasks:
   - name: run my new module
     netology.frstudent.fr_module:
-#    fr_module:
       path: "/home/devops/ansible/src/like_pass"
       context: "Oppps, I meamd contetn but use context. Again"
       overwrite: False
