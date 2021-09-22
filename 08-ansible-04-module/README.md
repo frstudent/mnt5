@@ -24,6 +24,6 @@
 
 Тестовый запуск
 ```bash
-ansible-galaxy collection install netology-frstudent-1.0.0.tar.gz --force
-ansible-playbook playbook.yml
+# ansible-galaxy collection install netology-frstudent-1.0.0.tar.gz --force
+# ansible-playbook playbook.yml
 ```
