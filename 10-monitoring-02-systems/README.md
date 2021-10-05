@@ -31,7 +31,7 @@ Zabbix | Гибрид
 VictoriaMetrics | Гибрид
 Nagios | Pull
 
-3. Склонируйте себе [репозиторий](https://github.com/influxdata/sandbox/tree/master) и запустите TICK-стэк, 
+> 3. Склонируйте себе [репозиторий](https://github.com/influxdata/sandbox/tree/master) и запустите TICK-стэк, 
 используя технологии docker и docker-compose.
 
 ```bash
@@ -63,10 +63,9 @@ Date: Tue, 05 Oct 2021 20:14:47 GMT
 
 > А также скриншот веб-интерфейса ПО chronograf (`http://localhost:8888`). 
 
-P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
-`./data:/var/lib:Z`
+![Screenshot](./TICK_GUI.png)
 
-4. Перейдите в веб-интерфейс Chronograf (`http://localhost:8888`) и откройте вкладку `Data explorer`.
+> 4. Перейдите в веб-интерфейс Chronograf (`http://localhost:8888`) и откройте вкладку `Data explorer`.
 
     - Нажмите на кнопку `Add a query`
     - Изучите вывод интерфейса и выберите БД `telegraf.autogen`
