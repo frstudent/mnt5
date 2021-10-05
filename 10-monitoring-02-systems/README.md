@@ -46,14 +46,22 @@ Date: Tue, 05 Oct 2021 19:45:49 GMT
 
 ```
 
+```bash
+curl http://localhost:8888
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=utf-8"><title>Chronograf</title><link rel="icon shortcut" href="/favicon.fa749080.ico"><link rel="stylesheet" href="/src.d80ed715.css"></head><body> <div id="react-root" data-basepath=""></div> <script src="/src.c278d833.js"></script> </body></html>
+```
 
-В виде решения на это упражнение приведите выводы команд с вашего компьютера (виртуальной машины):
+```bash
+ curl -i http://localhost:9092/kapacitor/v1/ping
+HTTP/1.1 204 No Content
+Content-Type: application/json; charset=utf-8
+Request-Id: e310569f-2618-11ec-8244-000000000000
+X-Kapacitor-Version: 1.6.2
+Date: Tue, 05 Oct 2021 20:14:47 GMT
 
-    - curl http://localhost:8086/ping
-    - curl http://localhost:8888
-    - curl http://localhost:9092/kapacitor/v1/ping
+```
 
-А также скриншот веб-интерфейса ПО chronograf (`http://localhost:8888`). 
+> А также скриншот веб-интерфейса ПО chronograf (`http://localhost:8888`). 
 
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
