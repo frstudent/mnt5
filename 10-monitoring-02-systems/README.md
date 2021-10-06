@@ -78,5 +78,5 @@ Date: Tue, 05 Oct 2021 20:14:47 GMT
     - аптайм
 </pre>
 
-![Screenshot](./Screenshot.png)
+![Dashboard](./Dashboards.png)
 
