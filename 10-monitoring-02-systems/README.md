@@ -25,7 +25,7 @@
 
 Система мониторин  | Тип модели
 --- | ---
-Prometheus | 
+Prometheus | Pull
 VictoriaMetrics | Pull
 TICK | Push
 Zabbix | Гибрид
