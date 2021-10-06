@@ -2,7 +2,7 @@
 
 ## Подготовка к выполнению
 
-![Screenshot0](./KanbanBoard.png)
+![Screenshot0](./KanbanBorard.png)
 
 <!--
 1. Получить бесплатную [JIRA](https://www.atlassian.com/ru/software/jira/free)
