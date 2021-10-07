@@ -16,9 +16,9 @@
 - Схема Workflow разработки - [NetlogyDefaultWorkflow](./NetlogyDefaultWorkflow.xml) 
 - Схема  Workflow исправления ошибок - [NetlogyBugfixesWorkflow](./NetlogyBugfixesWorkflow.xml) 
 
-## Тестовый Workflow решения задач
+## Список Issues
 
-- Проведение задач в Jira  [workflow](./SearchRequest.xml)
+- Эксспорт Issues после проведения задач в Jira  [workflow](./SearchRequest.xml)
 
 <!--
 В рамках основной части необходимо создать собственные workflow для двух типов задач: bug и остальные типы задач. Задачи типа bug должны проходить следующий жизненный цикл:
