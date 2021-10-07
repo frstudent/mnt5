@@ -11,7 +11,14 @@
 -->
 ![Screenshot1](./scrum_softwarelifecyle_2021-10-06_01.07pm.png)
 
-## Основная часть
+## Настройка Jira
+
+- Схема Workflow разработки - [NetlogyDefaultWorkflow](./NetlogyDefaultWorkflow.xml) 
+- Схема  Workflow исправления ошибок - [NetlogyBugfixesWorkflow](./NetlogyBugfixesWorkflow.xml) 
+
+## Тестовый Workflow решения задач
+
+- Проведение задач в Jira  [workflow](./SearchRequest.xml)
 
 <!--
 В рамках основной части необходимо создать собственные workflow для двух типов задач: bug и остальные типы задач. Задачи типа bug должны проходить следующий жизненный цикл:
@@ -34,9 +41,7 @@
 Перейти в scrum, запланировать новый спринт, состоящий из задач эпика и одного бага, стартовать спринт, провести задачи до состояния Closed. Закрыть спринт.
 -->
 
-> выгрузить схемы workflow для импорта в XML. Файлы с workflow приложить к решению задания.
 
 
-Задачи  [workflow](./SearchRequest.xml)
 
 ---
