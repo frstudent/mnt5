@@ -29,7 +29,7 @@
 
 Решение домашнего задания - скриншот веб-интерфейса grafana со списком подключенных Datasource.
 
-![GrafanaDataSources](./GrafanaDataSources.png)
+![GrafanaDataSources](./GrafanaDataSource.png)
 
 
 ## Задание 2
