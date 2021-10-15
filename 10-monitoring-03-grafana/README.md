@@ -7,7 +7,7 @@
 
 
 ## Задание 2
-Создана Dashboard и в ней созданый следующие Panels:  
+Создана Dashboard и в ней созданы следующие Panels:  
 - Утилизация CPU для nodeexporter (в процентах, 100-idle)
 ```
 100 - (avg by (instance) (irate(node_cpu_seconds_total{mode="idle"}[5m])) * 100)
