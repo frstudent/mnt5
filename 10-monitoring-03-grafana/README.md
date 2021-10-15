@@ -34,11 +34,30 @@
 
 Создайте Dashboard и в ней создайте следующие Panels:
 - Утилизация CPU для nodeexporter (в процентах, 100-idle)
+```
+100 - (avg by (instance) (irate(node_cpu_seconds_total{mode="idle"}[5m])) * 100)
+```
 - CPULA 1/5/15
-- Количество свободной оперативной памяти
-- Количество места на файловой системе
+```
+avg(node_load1{instance="$node",job="$job"}) /  count(count(node_cpu_seconds_total{instance="$node",job="$job"}) by (cpu)) * 100
 
-Для решения данного ДЗ приведите promql запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
+avg(node_load5{instance="$node",job="$job"}) /  count(count(node_cpu_seconds_total{instance="$node",job="$job"}) by (cpu)) * 100
+
+avg(node_load15{instance="$node",job="$job"}) /  count(count(node_cpu_seconds_total{instance="$node",job="$job"}) by (cpu)) * 100
+```
+- Количество свободной оперативной памяти
+```
+avg by (instance) (rate(node_memory_MemFree_bytes[1h]))
+```
+
+- Количество места на файловой системе
+```
+irate(node_filesystem_avail_bytes{mountpoint="/",fstype!="rootfs"}[30m])/(1024*1024)
+
+100 - ((node_filesystem_avail_bytes{mountpoint="/",fstype!="rootfs"} * 100) / node_filesystem_size_bytes{mountpoint="/",fstype!="rootfs"})
+```
+
+![Task2](./Task2.png)
 
 ## Задание 3
 Создайте для каждой Dashboard подходящее правило alert (можно обратиться к первой лекции в блоке "Мониторинг").
