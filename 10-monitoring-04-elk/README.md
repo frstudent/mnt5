@@ -73,13 +73,23 @@ filebeat            | {"level":"warn","timestamp":"2021-10-20T11:33:00.900Z","ca
  filebeat            | {"level":"error","timestamp":"2021-10-20T12:05:43.868Z","caller":"pipeline/output.go:100","message":"Failed to connect to backoff(async(tcp://logstash:5046)): dial tcp 172.19.0.4:5046: connect: connection refused"}
 </pre>
  
+ При этом фрагмент лога logstash
+ <pre>
+logstash            | [2021-10-20T12:25:49,496][INFO ][org.logstash.beats.Server] Starting server on port: 5044
+ </pre>
 
-Logstash следует сконфигурировать для приёма по tcp json сообщений.
+Ага. Похоже что он слушает на порту 5044 вместо 5046.
+И тут я пошёл по неправильному пути - поднял API на порту 5046 и получил следующую ошибку протокола. Теперь стало понятно что надо было изменять порт в конфигурации filebeat.yml, а не в logstash.yml. После смены порта filebeat заработал.
 
-Filebeat следует сконфигурировать для отправки логов docker вашей системы в logstash.
+> Logstash следует сконфигурировать для приёма по tcp json сообщений.  
+> Filebeat следует сконфигурировать для отправки логов docker вашей системы в logstash.  
 
-В директории [help](./help) находится манифест docker-compose и конфигурации filebeat/logstash для быстрого 
+Пришлось это сделать чтобы запустить.
+
+> В директории [help](./help) находится манифест docker-compose и конфигурации filebeat/logstash для быстрого 
 выполнения данного задания.
+
+Было бы удивительно, если бы достаточно было его запустить. 
 
 Результатом выполнения данного задания должны быть:
 - скриншот `docker ps` через 5 минут после старта всех контейнеров (их должно быть 5)
