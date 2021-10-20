@@ -97,7 +97,7 @@ logstash            | [2021-10-20T12:25:49,496][INFO ][org.logstash.beats.Server
 
 - скриншот интерфейса kibana
 
-![Kibana screenshot](./ELK-docker.png)
+![Kibana screenshot](./Kibana.png)
 
 
 ## Задание 2
