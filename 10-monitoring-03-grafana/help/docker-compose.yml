@@ -1,4 +1,4 @@
-version: '3.8'
+version: '2.2'
 
 services:
   prometheus:
@@ -16,6 +16,8 @@ services:
     restart: unless-stopped
     depends_on:
       - nodeexporter
+    ports:
+      - 9090:9090
     expose:
       - 9090
     networks:
@@ -41,7 +43,8 @@ services:
 
 
   grafana:
-    image: grafana/grafana:7.4.0
+#    image: grafana/grafana:7.4.0
+    image: grafana/grafana:8.2.0
     container_name: grafana
     volumes:
       - grafana_data:/var/lib/grafana

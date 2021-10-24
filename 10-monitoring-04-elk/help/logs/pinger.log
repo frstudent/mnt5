@@ -1,0 +1,1161 @@
+Oct 24 13:47:04 pinger ERROR: User not found
+NoneType: None
+Oct 24 13:47:07 pinger INFO: Hello there!!
+Oct 24 13:47:10 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:06:37 pinger ERROR: Host not found
+Oct 24 14:06:40 pinger ERROR: Host not found
+Oct 24 14:06:43 pinger ERROR: OH NO!!!!!!
+Oct 24 14:06:46 pinger ERROR: OH NO!!!!!!
+Oct 24 14:06:49 pinger INFO: Hello there!!
+Oct 24 14:06:58 pinger INFO: Random number works
+Oct 24 14:07:04 pinger ERROR: Host not found
+Oct 24 14:07:07 pinger INFO: Random number works
+Oct 24 14:07:13 pinger ERROR: Host not found
+Oct 24 14:07:16 pinger WARNING: Hmmm....something strange
+Oct 24 14:07:19 pinger ERROR: OH NO!!!!!!
+Oct 24 14:07:25 pinger INFO: Random number works
+Oct 24 14:07:28 pinger WARNING: Hmmm....something strange
+Oct 24 14:07:31 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:07:37 pinger WARNING: Opertaion timeout
+Oct 24 14:10:53 pinger INFO: Random number works
+Oct 24 14:10:56 pinger ERROR: Host not found
+Oct 24 14:10:59 pinger INFO: Hello there!!
+Oct 24 14:11:02 pinger INFO: Hello there!!
+Oct 24 14:11:05 pinger INFO: Random number works
+Oct 24 14:11:11 pinger ERROR: OH NO!!!!!!
+Oct 24 14:18:52 pinger ERROR: OH NO!!!!!!
+Oct 24 14:18:55 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:18:58 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:19:01 pinger WARNING: Hmmm....something strange
+Oct 24 14:19:04 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:19:16 pinger WARNING: Opertaion timeout
+Oct 24 14:19:19 pinger WARNING: Hmmm....something strange
+Oct 24 14:19:22 pinger ERROR: OH NO!!!!!!
+Oct 24 14:19:25 pinger ERROR: Host not found
+Oct 24 14:19:28 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:19:31 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:19:34 pinger ERROR: Host not found
+Oct 24 14:19:40 pinger WARNING: Opertaion timeout
+Oct 24 14:19:43 pinger ERROR: OH NO!!!!!!
+Oct 24 14:19:46 pinger ERROR: OH NO!!!!!!
+Oct 24 14:19:49 pinger WARNING: Opertaion timeout
+Oct 24 14:19:52 pinger WARNING: Hmmm....something strange
+Oct 24 14:19:56 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:19:59 pinger ERROR: Host not found
+Oct 24 14:20:02 pinger ERROR: Host not found
+Oct 24 14:20:05 pinger INFO: Random number works
+Oct 24 14:20:08 pinger WARNING: Hmmm....something strange
+Oct 24 14:22:08 pinger WARNING: Opertaion timeout
+Oct 24 14:22:11 pinger WARNING: Opertaion timeout
+Oct 24 14:22:14 pinger INFO: Hello there!!
+Oct 24 14:22:23 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:22:26 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:22:29 pinger ERROR: OH NO!!!!!!
+Oct 24 14:22:41 pinger ERROR: OH NO!!!!!!
+Oct 24 14:22:47 pinger ERROR: OH NO!!!!!!
+Oct 24 14:22:50 pinger ERROR: OH NO!!!!!!
+Oct 24 14:23:05 pinger INFO: Random number works
+Oct 24 14:23:08 pinger WARNING: Opertaion timeout
+Oct 24 14:23:11 pinger INFO: Hello there!!
+Oct 24 14:23:14 pinger INFO: Random number works
+Oct 24 14:23:17 pinger ERROR: OH NO!!!!!!
+Oct 24 14:23:20 pinger INFO: Hello there!!
+Oct 24 14:23:26 pinger ERROR: OH NO!!!!!!
+Oct 24 14:23:29 pinger INFO: Random number works
+Oct 24 14:23:35 pinger ERROR: OH NO!!!!!!
+Oct 24 14:23:38 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:23:41 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:23:44 pinger INFO: Hello there!!
+Oct 24 14:23:47 pinger INFO: Random number works
+Oct 24 14:23:50 pinger INFO: Random number works
+Oct 24 14:23:53 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:23:59 pinger WARNING: Opertaion timeout
+Oct 24 14:24:02 pinger INFO: Random number works
+Oct 24 14:24:05 pinger INFO: Random number works
+Oct 24 14:24:08 pinger ERROR: Host not found
+Oct 24 14:24:11 pinger ERROR: OH NO!!!!!!
+Oct 24 14:24:14 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:24:17 pinger ERROR: OH NO!!!!!!
+Oct 24 14:24:20 pinger INFO: Random number works
+Oct 24 14:24:23 pinger INFO: Hello there!!
+Oct 24 14:24:26 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:24:29 pinger ERROR: OH NO!!!!!!
+Oct 24 14:24:32 pinger ERROR: OH NO!!!!!!
+Oct 24 14:24:35 pinger WARNING: Hmmm....something strange
+Oct 24 14:24:41 pinger ERROR: Host not found
+Oct 24 14:24:44 pinger INFO: Hello there!!
+Oct 24 14:24:50 pinger ERROR: Host not found
+Oct 24 14:24:53 pinger ERROR: Host not found
+Oct 24 14:24:56 pinger WARNING: Hmmm....something strange
+Oct 24 14:25:02 pinger ERROR: Host not found
+Oct 24 14:25:05 pinger WARNING: Opertaion timeout
+Oct 24 14:25:08 pinger ERROR: OH NO!!!!!!
+Oct 24 14:25:11 pinger WARNING: Hmmm....something strange
+Oct 24 14:25:14 pinger ERROR: OH NO!!!!!!
+Oct 24 14:25:23 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:25:26 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:25:29 pinger ERROR: Host not found
+Oct 24 14:25:32 pinger ERROR: OH NO!!!!!!
+Oct 24 14:25:38 pinger INFO: Hello there!!
+Oct 24 14:25:41 pinger ERROR: OH NO!!!!!!
+Oct 24 14:25:44 pinger INFO: Hello there!!
+Oct 24 14:25:47 pinger ERROR: OH NO!!!!!!
+Oct 24 14:25:50 pinger INFO: Random number works
+Oct 24 14:25:53 pinger ERROR: Host not found
+Oct 24 14:25:56 pinger WARNING: Hmmm....something strange
+Oct 24 14:25:59 pinger INFO: Random number works
+Oct 24 14:26:02 pinger WARNING: Hmmm....something strange
+Oct 24 14:26:05 pinger INFO: Random number works
+Oct 24 14:26:08 pinger INFO: Hello there!!
+Oct 24 14:26:11 pinger ERROR: OH NO!!!!!!
+Oct 24 14:26:14 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:26:17 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:26:20 pinger WARNING: Hmmm....something strange
+Oct 24 14:26:23 pinger WARNING: Hmmm....something strange
+Oct 24 14:26:26 pinger ERROR: Host not found
+Oct 24 14:26:29 pinger WARNING: Opertaion timeout
+Oct 24 14:26:35 pinger INFO: Random number works
+Oct 24 14:26:38 pinger ERROR: OH NO!!!!!!
+Oct 24 14:26:41 pinger ERROR: OH NO!!!!!!
+Oct 24 14:26:47 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:26:50 pinger ERROR: Host not found
+Oct 24 14:26:53 pinger ERROR: Host not found
+Oct 24 14:26:59 pinger ERROR: OH NO!!!!!!
+Oct 24 14:27:02 pinger WARNING: Hmmm....something strange
+Oct 24 14:27:05 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:27:08 pinger ERROR: Host not found
+Oct 24 14:27:11 pinger INFO: Hello there!!
+Oct 24 14:27:14 pinger WARNING: Hmmm....something strange
+Oct 24 14:27:17 pinger WARNING: Hmmm....something strange
+Oct 24 14:27:20 pinger WARNING: Hmmm....something strange
+Oct 24 14:27:23 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:27:26 pinger WARNING: Opertaion timeout
+Oct 24 14:27:29 pinger ERROR: Host not found
+Oct 24 14:27:32 pinger ERROR: OH NO!!!!!!
+Oct 24 14:27:35 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:27:38 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:27:41 pinger INFO: Hello there!!
+Oct 24 14:27:44 pinger WARNING: Opertaion timeout
+Oct 24 14:27:47 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:27:50 pinger ERROR: OH NO!!!!!!
+Oct 24 14:27:53 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:27:56 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:27:59 pinger INFO: Hello there!!
+Oct 24 14:28:02 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:28:08 pinger INFO: Random number works
+Oct 24 14:28:11 pinger INFO: Random number works
+Oct 24 14:28:14 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:28:20 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:28:23 pinger INFO: Hello there!!
+Oct 24 14:28:26 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:28:29 pinger ERROR: Host not found
+Oct 24 14:28:35 pinger ERROR: Host not found
+Oct 24 14:28:38 pinger WARNING: Hmmm....something strange
+Oct 24 14:28:41 pinger ERROR: OH NO!!!!!!
+Oct 24 14:28:47 pinger ERROR: OH NO!!!!!!
+Oct 24 14:28:50 pinger WARNING: Opertaion timeout
+Oct 24 14:28:53 pinger ERROR: OH NO!!!!!!
+Oct 24 14:28:56 pinger ERROR: Host not found
+Oct 24 14:28:59 pinger INFO: Random number works
+Oct 24 14:29:02 pinger INFO: Random number works
+Oct 24 14:29:05 pinger WARNING: Hmmm....something strange
+Oct 24 14:29:08 pinger INFO: Random number works
+Oct 24 14:29:11 pinger ERROR: Host not found
+Oct 24 14:29:14 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:29:17 pinger ERROR: Host not found
+Oct 24 14:29:20 pinger ERROR: OH NO!!!!!!
+Oct 24 14:29:35 pinger ERROR: Host not found
+Oct 24 14:29:38 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:29:41 pinger ERROR: Host not found
+Oct 24 14:29:44 pinger WARNING: Hmmm....something strange
+Oct 24 14:29:47 pinger ERROR: OH NO!!!!!!
+Oct 24 14:29:53 pinger ERROR: OH NO!!!!!!
+Oct 24 14:29:56 pinger WARNING: Hmmm....something strange
+Oct 24 14:29:59 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:30:02 pinger ERROR: Host not found
+Oct 24 14:30:11 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:30:14 pinger ERROR: Host not found
+Oct 24 14:30:17 pinger INFO: Random number works
+Oct 24 14:30:23 pinger WARNING: Opertaion timeout
+Oct 24 14:30:35 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:30:38 pinger ERROR: Host not found
+Oct 24 14:30:44 pinger ERROR: OH NO!!!!!!
+Oct 24 14:30:47 pinger INFO: Hello there!!
+Oct 24 14:30:50 pinger ERROR: Host not found
+Oct 24 14:30:53 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:30:56 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:31:02 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:31:05 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:31:08 pinger INFO: Hello there!!
+Oct 24 14:31:11 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:31:15 pinger INFO: Random number works
+Oct 24 14:31:21 pinger INFO: Hello there!!
+Oct 24 14:31:24 pinger INFO: Random number works
+Oct 24 14:31:30 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:31:33 pinger ERROR: OH NO!!!!!!
+Oct 24 14:31:39 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:31:42 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:31:45 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:31:48 pinger WARNING: Hmmm....something strange
+Oct 24 14:31:51 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:31:54 pinger WARNING: Hmmm....something strange
+Oct 24 14:31:57 pinger INFO: Hello there!!
+Oct 24 14:32:00 pinger WARNING: Hmmm....something strange
+Oct 24 14:32:09 pinger WARNING: Hmmm....something strange
+Oct 24 14:32:12 pinger WARNING: Hmmm....something strange
+Oct 24 14:32:18 pinger INFO: Random number works
+Oct 24 14:32:21 pinger INFO: Hello there!!
+Oct 24 14:32:24 pinger WARNING: Hmmm....something strange
+Oct 24 14:32:27 pinger ERROR: OH NO!!!!!!
+Oct 24 14:32:30 pinger ERROR: OH NO!!!!!!
+Oct 24 14:32:33 pinger ERROR: OH NO!!!!!!
+Oct 24 14:32:36 pinger WARNING: Hmmm....something strange
+Oct 24 14:32:39 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:32:42 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:32:45 pinger ERROR: OH NO!!!!!!
+Oct 24 14:32:48 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:32:51 pinger WARNING: Opertaion timeout
+Oct 24 14:32:54 pinger ERROR: Host not found
+Oct 24 14:33:00 pinger ERROR: OH NO!!!!!!
+Oct 24 14:33:03 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:33:06 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:33:09 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:33:12 pinger WARNING: Hmmm....something strange
+Oct 24 14:33:15 pinger WARNING: Opertaion timeout
+Oct 24 14:33:18 pinger INFO: Random number works
+Oct 24 14:33:24 pinger WARNING: Hmmm....something strange
+Oct 24 14:33:27 pinger WARNING: Hmmm....something strange
+Oct 24 14:33:30 pinger INFO: Hello there!!
+Oct 24 14:33:33 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:33:36 pinger INFO: Hello there!!
+Oct 24 14:33:42 pinger ERROR: OH NO!!!!!!
+Oct 24 14:33:45 pinger INFO: Hello there!!
+Oct 24 14:33:48 pinger INFO: Hello there!!
+Oct 24 14:33:54 pinger INFO: Hello there!!
+Oct 24 14:33:57 pinger INFO: Hello there!!
+Oct 24 14:34:00 pinger ERROR: Host not found
+Oct 24 14:34:03 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:34:06 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:34:09 pinger ERROR: OH NO!!!!!!
+Oct 24 14:34:18 pinger INFO: Random number works
+Oct 24 14:34:21 pinger WARNING: Hmmm....something strange
+Oct 24 14:34:24 pinger INFO: Random number works
+Oct 24 14:34:33 pinger WARNING: Hmmm....something strange
+Oct 24 14:34:36 pinger WARNING: Hmmm....something strange
+Oct 24 14:34:42 pinger WARNING: Hmmm....something strange
+Oct 24 14:34:45 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:34:48 pinger INFO: Hello there!!
+Oct 24 14:34:51 pinger WARNING: Hmmm....something strange
+Oct 24 14:34:54 pinger WARNING: Hmmm....something strange
+Oct 24 14:34:57 pinger WARNING: Opertaion timeout
+Oct 24 14:35:00 pinger INFO: Hello there!!
+Oct 24 14:35:06 pinger INFO: Random number works
+Oct 24 14:35:15 pinger WARNING: Opertaion timeout
+Oct 24 14:35:18 pinger ERROR: Host not found
+Oct 24 14:35:21 pinger ERROR: Host not found
+Oct 24 14:35:24 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:35:27 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:35:33 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:35:36 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:35:39 pinger INFO: Random number works
+Oct 24 14:35:42 pinger WARNING: Hmmm....something strange
+Oct 24 14:35:45 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:35:48 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:35:51 pinger ERROR: OH NO!!!!!!
+Oct 24 14:36:00 pinger INFO: Hello there!!
+Oct 24 14:36:03 pinger WARNING: Opertaion timeout
+Oct 24 14:36:09 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:36:12 pinger ERROR: Host not found
+Oct 24 14:36:21 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:36:24 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:36:30 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:36:33 pinger WARNING: Opertaion timeout
+Oct 24 14:36:39 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:36:42 pinger INFO: Random number works
+Oct 24 14:36:45 pinger ERROR: OH NO!!!!!!
+Oct 24 14:36:48 pinger ERROR: OH NO!!!!!!
+Oct 24 14:36:51 pinger ERROR: OH NO!!!!!!
+Oct 24 14:36:54 pinger INFO: Random number works
+Oct 24 14:36:57 pinger WARNING: Hmmm....something strange
+Oct 24 14:37:00 pinger INFO: Hello there!!
+Oct 24 14:37:09 pinger ERROR: Host not found
+Oct 24 14:37:12 pinger ERROR: Host not found
+Oct 24 14:37:15 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:37:18 pinger WARNING: Opertaion timeout
+Oct 24 14:37:24 pinger ERROR: Host not found
+Oct 24 14:37:27 pinger WARNING: Hmmm....something strange
+Oct 24 14:37:30 pinger INFO: Random number works
+Oct 24 14:37:36 pinger INFO: Random number works
+Oct 24 14:37:39 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:37:48 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:37:51 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:37:54 pinger ERROR: OH NO!!!!!!
+Oct 24 14:37:57 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:38:00 pinger ERROR: OH NO!!!!!!
+Oct 24 14:38:03 pinger WARNING: Opertaion timeout
+Oct 24 14:38:06 pinger ERROR: Host not found
+Oct 24 14:38:09 pinger WARNING: Hmmm....something strange
+Oct 24 14:38:12 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:38:15 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:38:24 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:38:27 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:38:36 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:38:39 pinger ERROR: OH NO!!!!!!
+Oct 24 14:38:42 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:38:45 pinger WARNING: Hmmm....something strange
+Oct 24 14:38:48 pinger ERROR: OH NO!!!!!!
+Oct 24 14:38:57 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:39:00 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:39:03 pinger ERROR: Host not found
+Oct 24 14:39:06 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:39:12 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:39:18 pinger ERROR: OH NO!!!!!!
+Oct 24 14:39:21 pinger INFO: Random number works
+Oct 24 14:39:24 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:39:27 pinger ERROR: Host not found
+Oct 24 14:39:30 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:39:33 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:39:36 pinger WARNING: Opertaion timeout
+Oct 24 14:39:39 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:39:45 pinger ERROR: OH NO!!!!!!
+Oct 24 14:39:48 pinger ERROR: OH NO!!!!!!
+Oct 24 14:39:51 pinger ERROR: Host not found
+Oct 24 14:39:54 pinger ERROR: Host not found
+Oct 24 14:40:00 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:40:06 pinger ERROR: Host not found
+Oct 24 14:40:09 pinger WARNING: Hmmm....something strange
+Oct 24 14:40:18 pinger INFO: Random number works
+Oct 24 14:40:21 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:40:24 pinger WARNING: Opertaion timeout
+Oct 24 14:40:27 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:40:30 pinger ERROR: OH NO!!!!!!
+Oct 24 14:40:33 pinger WARNING: Hmmm....something strange
+Oct 24 14:40:36 pinger INFO: Hello there!!
+Oct 24 14:40:39 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:40:42 pinger ERROR: Host not found
+Oct 24 14:40:45 pinger WARNING: Opertaion timeout
+Oct 24 14:40:48 pinger ERROR: OH NO!!!!!!
+Oct 24 14:40:51 pinger INFO: Hello there!!
+Oct 24 14:40:54 pinger INFO: Hello there!!
+Oct 24 14:40:57 pinger ERROR: Host not found
+Oct 24 14:41:03 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:41:06 pinger ERROR: Host not found
+Oct 24 14:41:09 pinger INFO: Hello there!!
+Oct 24 14:41:12 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:41:18 pinger INFO: Random number works
+Oct 24 14:41:24 pinger INFO: Hello there!!
+Oct 24 14:41:27 pinger INFO: Hello there!!
+Oct 24 14:41:30 pinger INFO: Hello there!!
+Oct 24 14:41:33 pinger WARNING: Opertaion timeout
+Oct 24 14:41:36 pinger INFO: Random number works
+Oct 24 14:41:39 pinger INFO: Hello there!!
+Oct 24 14:41:42 pinger ERROR: Host not found
+Oct 24 14:41:45 pinger INFO: Hello there!!
+Oct 24 14:41:48 pinger ERROR: OH NO!!!!!!
+Oct 24 14:41:51 pinger ERROR: Host not found
+Oct 24 14:41:54 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:41:57 pinger INFO: Hello there!!
+Oct 24 14:42:00 pinger WARNING: Hmmm....something strange
+Oct 24 14:42:03 pinger ERROR: OH NO!!!!!!
+Oct 24 14:42:06 pinger WARNING: Opertaion timeout
+Oct 24 14:42:09 pinger WARNING: Opertaion timeout
+Oct 24 14:42:15 pinger INFO: Hello there!!
+Oct 24 14:42:21 pinger INFO: Hello there!!
+Oct 24 14:42:24 pinger WARNING: Opertaion timeout
+Oct 24 14:42:27 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:42:30 pinger ERROR: OH NO!!!!!!
+Oct 24 14:42:33 pinger WARNING: Hmmm....something strange
+Oct 24 14:42:36 pinger WARNING: Opertaion timeout
+Oct 24 14:42:39 pinger INFO: Hello there!!
+Oct 24 14:42:42 pinger INFO: Hello there!!
+Oct 24 14:42:45 pinger INFO: Random number works
+Oct 24 14:42:48 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:42:51 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:42:54 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:42:57 pinger WARNING: Hmmm....something strange
+Oct 24 14:43:00 pinger WARNING: Opertaion timeout
+Oct 24 14:43:03 pinger WARNING: Hmmm....something strange
+Oct 24 14:43:06 pinger INFO: Hello there!!
+Oct 24 14:43:09 pinger ERROR: OH NO!!!!!!
+Oct 24 14:43:12 pinger INFO: Hello there!!
+Oct 24 14:43:15 pinger ERROR: OH NO!!!!!!
+Oct 24 14:43:18 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:43:21 pinger ERROR: OH NO!!!!!!
+Oct 24 14:43:24 pinger ERROR: Host not found
+Oct 24 14:43:27 pinger WARNING: Opertaion timeout
+Oct 24 14:43:30 pinger WARNING: Opertaion timeout
+Oct 24 14:43:33 pinger INFO: Random number works
+Oct 24 14:43:42 pinger INFO: Random number works
+Oct 24 14:43:45 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:43:48 pinger ERROR: Host not found
+Oct 24 14:43:51 pinger ERROR: Host not found
+Oct 24 14:43:54 pinger ERROR: Host not found
+Oct 24 14:43:57 pinger INFO: Hello there!!
+Oct 24 14:44:00 pinger ERROR: Host not found
+Oct 24 14:44:03 pinger INFO: Hello there!!
+Oct 24 14:44:06 pinger ERROR: OH NO!!!!!!
+Oct 24 14:44:09 pinger ERROR: Host not found
+Oct 24 14:44:15 pinger ERROR: OH NO!!!!!!
+Oct 24 14:44:18 pinger INFO: Random number works
+Oct 24 14:44:27 pinger WARNING: Opertaion timeout
+Oct 24 14:44:30 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:44:33 pinger WARNING: Opertaion timeout
+Oct 24 14:44:36 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:44:39 pinger ERROR: OH NO!!!!!!
+Oct 24 14:44:42 pinger WARNING: Hmmm....something strange
+Oct 24 14:44:45 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:44:48 pinger WARNING: Opertaion timeout
+Oct 24 14:44:51 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:44:54 pinger INFO: Random number works
+Oct 24 14:45:03 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:45:06 pinger WARNING: Hmmm....something strange
+Oct 24 14:45:09 pinger INFO: Hello there!!
+Oct 24 14:45:12 pinger WARNING: Opertaion timeout
+Oct 24 14:45:15 pinger INFO: Random number works
+Oct 24 14:45:24 pinger ERROR: Host not found
+Oct 24 14:45:27 pinger INFO: Random number works
+Oct 24 14:45:30 pinger WARNING: Hmmm....something strange
+Oct 24 14:45:33 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:45:36 pinger INFO: Random number works
+Oct 24 14:45:39 pinger ERROR: OH NO!!!!!!
+Oct 24 14:45:42 pinger ERROR: OH NO!!!!!!
+Oct 24 14:45:51 pinger INFO: Hello there!!
+Oct 24 14:45:54 pinger INFO: Hello there!!
+Oct 24 14:46:00 pinger ERROR: OH NO!!!!!!
+Oct 24 14:46:06 pinger ERROR: OH NO!!!!!!
+Oct 24 14:46:09 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:46:18 pinger INFO: Random number works
+Oct 24 14:46:21 pinger ERROR: OH NO!!!!!!
+Oct 24 14:46:24 pinger ERROR: OH NO!!!!!!
+Oct 24 14:46:30 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:46:33 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:46:36 pinger WARNING: Opertaion timeout
+Oct 24 14:46:39 pinger WARNING: Hmmm....something strange
+Oct 24 14:46:42 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:46:45 pinger WARNING: Opertaion timeout
+Oct 24 14:46:48 pinger ERROR: Host not found
+Oct 24 14:46:51 pinger ERROR: OH NO!!!!!!
+Oct 24 14:46:54 pinger INFO: Random number works
+Oct 24 14:46:57 pinger WARNING: Opertaion timeout
+Oct 24 14:47:00 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:47:03 pinger WARNING: Hmmm....something strange
+Oct 24 14:47:06 pinger WARNING: Opertaion timeout
+Oct 24 14:47:09 pinger ERROR: OH NO!!!!!!
+Oct 24 14:47:12 pinger WARNING: Opertaion timeout
+Oct 24 14:47:15 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:47:18 pinger WARNING: Hmmm....something strange
+Oct 24 14:47:21 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:47:27 pinger ERROR: Host not found
+Oct 24 14:47:36 pinger INFO: Hello there!!
+Oct 24 14:47:39 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:47:42 pinger WARNING: Hmmm....something strange
+Oct 24 14:47:45 pinger WARNING: Hmmm....something strange
+Oct 24 14:47:48 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:47:51 pinger WARNING: Hmmm....something strange
+Oct 24 14:47:54 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:47:57 pinger WARNING: Hmmm....something strange
+Oct 24 14:48:00 pinger WARNING: Opertaion timeout
+Oct 24 14:48:03 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:48:06 pinger WARNING: Opertaion timeout
+Oct 24 14:48:09 pinger WARNING: Opertaion timeout
+Oct 24 14:48:12 pinger ERROR: OH NO!!!!!!
+Oct 24 14:48:18 pinger ERROR: Host not found
+Oct 24 14:48:27 pinger WARNING: Opertaion timeout
+Oct 24 14:48:30 pinger ERROR: Host not found
+Oct 24 14:48:33 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:48:36 pinger WARNING: Opertaion timeout
+Oct 24 14:48:39 pinger ERROR: Host not found
+Oct 24 14:48:45 pinger WARNING: Opertaion timeout
+Oct 24 14:48:51 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:48:58 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:49:07 pinger INFO: Hello there!!
+Oct 24 14:49:10 pinger ERROR: Host not found
+Oct 24 14:49:13 pinger WARNING: Hmmm....something strange
+Oct 24 14:49:16 pinger WARNING: Hmmm....something strange
+Oct 24 14:49:19 pinger WARNING: Hmmm....something strange
+Oct 24 14:49:25 pinger ERROR: Host not found
+Oct 24 14:49:28 pinger INFO: Hello there!!
+Oct 24 14:49:34 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:49:37 pinger INFO: Random number works
+Oct 24 14:49:43 pinger INFO: Random number works
+Oct 24 14:49:46 pinger ERROR: OH NO!!!!!!
+Oct 24 14:49:49 pinger ERROR: OH NO!!!!!!
+Oct 24 14:49:52 pinger INFO: Random number works
+Oct 24 14:49:55 pinger ERROR: OH NO!!!!!!
+Oct 24 14:49:58 pinger ERROR: Host not found
+Oct 24 14:50:01 pinger ERROR: OH NO!!!!!!
+Oct 24 14:50:04 pinger INFO: Hello there!!
+Oct 24 14:50:07 pinger WARNING: Hmmm....something strange
+Oct 24 14:50:10 pinger INFO: Hello there!!
+Oct 24 14:50:13 pinger ERROR: Host not found
+Oct 24 14:50:16 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:50:19 pinger ERROR: Host not found
+Oct 24 14:50:25 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:50:31 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:50:34 pinger WARNING: Hmmm....something strange
+Oct 24 14:50:37 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:50:40 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:50:43 pinger WARNING: Hmmm....something strange
+Oct 24 14:50:46 pinger INFO: Random number works
+Oct 24 14:50:49 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:50:58 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:51:01 pinger INFO: Hello there!!
+Oct 24 14:51:04 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:51:10 pinger ERROR: Host not found
+Oct 24 14:51:13 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:51:16 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:51:19 pinger WARNING: Hmmm....something strange
+Oct 24 14:51:22 pinger WARNING: Hmmm....something strange
+Oct 24 14:51:25 pinger INFO: Random number works
+Oct 24 14:51:28 pinger WARNING: Opertaion timeout
+Oct 24 14:51:31 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:51:34 pinger INFO: Random number works
+Oct 24 14:51:37 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:51:46 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:51:49 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:51:55 pinger ERROR: OH NO!!!!!!
+Oct 24 14:51:58 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:52:01 pinger WARNING: Hmmm....something strange
+Oct 24 14:52:04 pinger ERROR: OH NO!!!!!!
+Oct 24 14:52:07 pinger ERROR: OH NO!!!!!!
+Oct 24 14:52:10 pinger INFO: Random number works
+Oct 24 14:52:19 pinger ERROR: OH NO!!!!!!
+Oct 24 14:52:22 pinger WARNING: Opertaion timeout
+Oct 24 14:52:25 pinger INFO: Hello there!!
+Oct 24 14:52:28 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:52:31 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:52:34 pinger WARNING: Opertaion timeout
+Oct 24 14:52:37 pinger INFO: Hello there!!
+Oct 24 14:52:40 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:52:46 pinger WARNING: Opertaion timeout
+Oct 24 14:52:49 pinger INFO: Hello there!!
+Oct 24 14:52:52 pinger ERROR: OH NO!!!!!!
+Oct 24 14:52:58 pinger INFO: Random number works
+Oct 24 14:53:01 pinger ERROR: Host not found
+Oct 24 14:53:04 pinger ERROR: OH NO!!!!!!
+Oct 24 14:53:07 pinger WARNING: Hmmm....something strange
+Oct 24 14:53:10 pinger WARNING: Hmmm....something strange
+Oct 24 14:53:13 pinger INFO: Hello there!!
+Oct 24 14:53:16 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:53:19 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:53:22 pinger ERROR: OH NO!!!!!!
+Oct 24 14:53:28 pinger WARNING: Opertaion timeout
+Oct 24 14:53:31 pinger ERROR: Host not found
+Oct 24 14:53:34 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:53:37 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:53:40 pinger ERROR: OH NO!!!!!!
+Oct 24 14:53:43 pinger INFO: Random number works
+Oct 24 14:53:49 pinger ERROR: Host not found
+Oct 24 14:53:52 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:54:04 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:54:07 pinger WARNING: Hmmm....something strange
+Oct 24 14:54:10 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:54:13 pinger ERROR: OH NO!!!!!!
+Oct 24 14:54:19 pinger ERROR: OH NO!!!!!!
+Oct 24 14:54:22 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:54:25 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:54:28 pinger ERROR: OH NO!!!!!!
+Oct 24 14:54:31 pinger INFO: Hello there!!
+Oct 24 14:54:37 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:54:40 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:54:43 pinger INFO: Hello there!!
+Oct 24 14:54:46 pinger INFO: Random number works
+Oct 24 14:54:52 pinger WARNING: Hmmm....something strange
+Oct 24 14:54:55 pinger INFO: Hello there!!
+Oct 24 14:54:58 pinger WARNING: Opertaion timeout
+Oct 24 14:55:01 pinger ERROR: OH NO!!!!!!
+Oct 24 14:55:04 pinger INFO: Random number works
+Oct 24 14:55:07 pinger ERROR: Host not found
+Oct 24 14:55:13 pinger ERROR: Host not found
+Oct 24 14:55:16 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:55:19 pinger ERROR: OH NO!!!!!!
+Oct 24 14:55:22 pinger ERROR: OH NO!!!!!!
+Oct 24 14:55:31 pinger ERROR: Host not found
+Oct 24 14:55:34 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:55:37 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:55:40 pinger ERROR: Host not found
+Oct 24 14:55:43 pinger WARNING: Opertaion timeout
+Oct 24 14:55:49 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:55:52 pinger WARNING: Opertaion timeout
+Oct 24 14:55:55 pinger ERROR: Host not found
+Oct 24 14:55:58 pinger ERROR: OH NO!!!!!!
+Oct 24 14:56:01 pinger INFO: Hello there!!
+Oct 24 14:56:04 pinger INFO: Hello there!!
+Oct 24 14:56:07 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:56:13 pinger ERROR: OH NO!!!!!!
+Oct 24 14:56:16 pinger WARNING: Hmmm....something strange
+Oct 24 14:56:19 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:56:22 pinger ERROR: OH NO!!!!!!
+Oct 24 14:56:28 pinger ERROR: Host not found
+Oct 24 14:56:31 pinger ERROR: Host not found
+Oct 24 14:56:37 pinger WARNING: Hmmm....something strange
+Oct 24 14:56:40 pinger ERROR: OH NO!!!!!!
+Oct 24 14:56:43 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:56:46 pinger INFO: Hello there!!
+Oct 24 14:56:49 pinger ERROR: Host not found
+Oct 24 14:56:52 pinger INFO: Hello there!!
+Oct 24 14:56:58 pinger ERROR: OH NO!!!!!!
+Oct 24 14:57:01 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:57:07 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:57:10 pinger WARNING: Opertaion timeout
+Oct 24 14:57:13 pinger ERROR: Host not found
+Oct 24 14:57:16 pinger INFO: Random number works
+Oct 24 14:57:19 pinger WARNING: Hmmm....something strange
+Oct 24 14:57:22 pinger ERROR: Host not found
+Oct 24 14:57:25 pinger INFO: Random number works
+Oct 24 14:57:31 pinger INFO: Hello there!!
+Oct 24 14:57:34 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:57:37 pinger WARNING: Hmmm....something strange
+Oct 24 14:57:40 pinger INFO: Random number works
+Oct 24 14:57:43 pinger INFO: Hello there!!
+Oct 24 14:57:46 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:57:49 pinger ERROR: OH NO!!!!!!
+Oct 24 14:57:52 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:57:55 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:58:01 pinger ERROR: OH NO!!!!!!
+Oct 24 14:58:04 pinger WARNING: Hmmm....something strange
+Oct 24 14:58:07 pinger ERROR: OH NO!!!!!!
+Oct 24 14:58:10 pinger WARNING: Opertaion timeout
+Oct 24 14:58:13 pinger ERROR: Host not found
+Oct 24 14:58:19 pinger ERROR: Host not found
+Oct 24 14:58:22 pinger WARNING: Hmmm....something strange
+Oct 24 14:58:25 pinger ERROR: OH NO!!!!!!
+Oct 24 14:58:28 pinger INFO: Hello there!!
+Oct 24 14:58:34 pinger INFO: Random number works
+Oct 24 14:58:37 pinger INFO: Random number works
+Oct 24 14:58:40 pinger INFO: Random number works
+Oct 24 14:58:43 pinger WARNING: Opertaion timeout
+Oct 24 14:58:46 pinger WARNING: Hmmm....something strange
+Oct 24 14:58:49 pinger WARNING: Hmmm....something strange
+Oct 24 14:58:52 pinger WARNING: Hmmm....something strange
+Oct 24 14:58:55 pinger WARNING: Opertaion timeout
+Oct 24 14:58:58 pinger ERROR: OH NO!!!!!!
+Oct 24 14:59:01 pinger INFO: Hello there!!
+Oct 24 14:59:04 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:59:07 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:59:10 pinger INFO: Hello there!!
+Oct 24 14:59:13 pinger WARNING: Hmmm....something strange
+Oct 24 14:59:16 pinger INFO: Hello there!!
+Oct 24 14:59:19 pinger INFO: Hello there!!
+Oct 24 14:59:22 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:59:25 pinger WARNING: Hmmm....something strange
+Oct 24 14:59:28 pinger ERROR: Host not found
+Oct 24 14:59:31 pinger WARNING: Opertaion timeout
+Oct 24 14:59:34 pinger INFO: Hello there!!
+Oct 24 14:59:37 pinger ERROR: this is exception
+NoneType: None
+Oct 24 14:59:40 pinger INFO: Random number works
+Oct 24 14:59:43 pinger ERROR: User not found
+NoneType: None
+Oct 24 14:59:46 pinger ERROR: Host not found
+Oct 24 14:59:52 pinger INFO: Hello there!!
+Oct 24 14:59:55 pinger WARNING: Opertaion timeout
+Oct 24 15:00:01 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:00:04 pinger WARNING: Opertaion timeout
+Oct 24 15:00:07 pinger ERROR: Host not found
+Oct 24 15:00:10 pinger ERROR: Host not found
+Oct 24 15:00:13 pinger INFO: Random number works
+Oct 24 15:00:16 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:00:19 pinger INFO: Hello there!!
+Oct 24 15:00:25 pinger WARNING: Hmmm....something strange
+Oct 24 15:00:28 pinger INFO: Random number works
+Oct 24 15:00:31 pinger INFO: Random number works
+Oct 24 15:00:34 pinger ERROR: Host not found
+Oct 24 15:00:37 pinger INFO: Hello there!!
+Oct 24 15:00:40 pinger WARNING: Opertaion timeout
+Oct 24 15:00:49 pinger ERROR: OH NO!!!!!!
+Oct 24 15:00:55 pinger WARNING: Opertaion timeout
+Oct 24 15:00:58 pinger INFO: Random number works
+Oct 24 15:01:01 pinger INFO: Hello there!!
+Oct 24 15:01:04 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:01:07 pinger INFO: Hello there!!
+Oct 24 15:01:10 pinger ERROR: Host not found
+Oct 24 15:01:13 pinger ERROR: Host not found
+Oct 24 15:01:19 pinger INFO: Random number works
+Oct 24 15:01:25 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:01:28 pinger INFO: Random number works
+Oct 24 15:01:31 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:01:34 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:01:37 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:01:40 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:01:43 pinger ERROR: OH NO!!!!!!
+Oct 24 15:01:46 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:01:49 pinger WARNING: Opertaion timeout
+Oct 24 15:01:52 pinger ERROR: Host not found
+Oct 24 15:01:55 pinger WARNING: Hmmm....something strange
+Oct 24 15:01:58 pinger WARNING: Hmmm....something strange
+Oct 24 15:02:04 pinger ERROR: OH NO!!!!!!
+Oct 24 15:02:07 pinger ERROR: Host not found
+Oct 24 15:02:13 pinger WARNING: Opertaion timeout
+Oct 24 15:02:16 pinger ERROR: OH NO!!!!!!
+Oct 24 15:02:19 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:02:22 pinger ERROR: Host not found
+Oct 24 15:02:25 pinger INFO: Random number works
+Oct 24 15:02:31 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:02:33 pinger INFO: Hello there!!
+Oct 24 15:02:34 pinger WARNING: Opertaion timeout
+Oct 24 15:02:36 pinger INFO: Random number works
+Oct 24 15:02:37 pinger ERROR: Host not found
+Oct 24 15:02:40 pinger ERROR: OH NO!!!!!!
+Oct 24 15:02:42 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:02:43 pinger INFO: Random number works
+Oct 24 15:02:45 pinger ERROR: Host not found
+Oct 24 15:02:46 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:02:48 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:02:51 pinger WARNING: Opertaion timeout
+Oct 24 15:02:52 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:02:54 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:02:57 pinger ERROR: OH NO!!!!!!
+Oct 24 15:02:58 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:03:00 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:03:06 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:03:07 pinger ERROR: OH NO!!!!!!
+Oct 24 15:03:09 pinger ERROR: OH NO!!!!!!
+Oct 24 15:03:10 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:03:13 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:03:15 pinger ERROR: OH NO!!!!!!
+Oct 24 15:03:16 pinger INFO: Hello there!!
+Oct 24 15:03:19 pinger INFO: Random number works
+Oct 24 15:03:19 pinger WARNING: Hmmm....something strange
+Oct 24 15:03:22 pinger WARNING: Opertaion timeout
+Oct 24 15:03:22 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:03:25 pinger ERROR: OH NO!!!!!!
+Oct 24 15:03:25 pinger INFO: Random number works
+Oct 24 15:03:28 pinger WARNING: Hmmm....something strange
+Oct 24 15:03:28 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:03:31 pinger INFO: Random number works
+Oct 24 15:03:34 pinger WARNING: Hmmm....something strange
+Oct 24 15:03:34 pinger ERROR: OH NO!!!!!!
+Oct 24 15:03:37 pinger ERROR: Host not found
+Oct 24 15:03:40 pinger ERROR: OH NO!!!!!!
+Oct 24 15:03:46 pinger WARNING: Opertaion timeout
+Oct 24 15:03:55 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:03:58 pinger INFO: Hello there!!
+Oct 24 15:04:01 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:04:04 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:04:07 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:04:10 pinger ERROR: Host not found
+Oct 24 15:04:13 pinger INFO: Random number works
+Oct 24 15:04:16 pinger ERROR: Host not found
+Oct 24 15:04:19 pinger INFO: Random number works
+Oct 24 15:04:25 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:04:34 pinger ERROR: Host not found
+Oct 24 15:04:37 pinger WARNING: Opertaion timeout
+Oct 24 15:04:43 pinger WARNING: Hmmm....something strange
+Oct 24 15:04:46 pinger WARNING: Hmmm....something strange
+Oct 24 15:04:49 pinger ERROR: Host not found
+Oct 24 15:04:55 pinger ERROR: Host not found
+Oct 24 15:04:58 pinger INFO: Hello there!!
+Oct 24 15:05:01 pinger INFO: Random number works
+Oct 24 15:05:04 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:05:07 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:05:10 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:05:19 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:05:22 pinger ERROR: OH NO!!!!!!
+Oct 24 15:05:28 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:05:31 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:05:34 pinger ERROR: Host not found
+Oct 24 15:05:37 pinger INFO: Random number works
+Oct 24 15:05:40 pinger INFO: Random number works
+Oct 24 15:05:43 pinger ERROR: Host not found
+Oct 24 15:05:46 pinger ERROR: Host not found
+Oct 24 15:05:58 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:06:01 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:06:04 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:06:07 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:06:10 pinger INFO: Random number works
+Oct 24 15:06:13 pinger WARNING: Hmmm....something strange
+Oct 24 15:06:19 pinger ERROR: Host not found
+Oct 24 15:06:22 pinger WARNING: Opertaion timeout
+Oct 24 15:06:25 pinger INFO: Hello there!!
+Oct 24 15:06:28 pinger INFO: Random number works
+Oct 24 15:06:31 pinger INFO: Hello there!!
+Oct 24 15:06:34 pinger WARNING: Opertaion timeout
+Oct 24 15:06:37 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:06:43 pinger WARNING: Opertaion timeout
+Oct 24 15:06:52 pinger WARNING: Hmmm....something strange
+Oct 24 15:06:55 pinger WARNING: Opertaion timeout
+Oct 24 15:06:58 pinger INFO: Random number works
+Oct 24 15:07:01 pinger WARNING: Opertaion timeout
+Oct 24 15:07:07 pinger WARNING: Hmmm....something strange
+Oct 24 15:07:10 pinger WARNING: Opertaion timeout
+Oct 24 15:07:13 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:07:17 pinger WARNING: Hmmm....something strange
+Oct 24 15:07:20 pinger WARNING: Opertaion timeout
+Oct 24 15:07:23 pinger ERROR: Host not found
+Oct 24 15:07:26 pinger WARNING: Opertaion timeout
+Oct 24 15:07:29 pinger INFO: Random number works
+Oct 24 15:07:32 pinger ERROR: OH NO!!!!!!
+Oct 24 15:07:35 pinger INFO: Hello there!!
+Oct 24 15:07:38 pinger ERROR: Host not found
+Oct 24 15:07:41 pinger INFO: Random number works
+Oct 24 15:07:44 pinger INFO: Random number works
+Oct 24 15:07:47 pinger INFO: Hello there!!
+Oct 24 15:07:50 pinger WARNING: Opertaion timeout
+Oct 24 15:07:53 pinger ERROR: Host not found
+Oct 24 15:07:59 pinger WARNING: Opertaion timeout
+Oct 24 15:08:02 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:08:05 pinger WARNING: Opertaion timeout
+Oct 24 15:08:14 pinger ERROR: OH NO!!!!!!
+Oct 24 15:08:17 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:08:26 pinger ERROR: Host not found
+Oct 24 15:08:29 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:08:35 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:08:41 pinger INFO: Random number works
+Oct 24 15:08:44 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:08:50 pinger WARNING: Hmmm....something strange
+Oct 24 15:08:53 pinger WARNING: Opertaion timeout
+Oct 24 15:08:59 pinger INFO: Random number works
+Oct 24 15:09:02 pinger WARNING: Opertaion timeout
+Oct 24 15:09:08 pinger ERROR: OH NO!!!!!!
+Oct 24 15:09:11 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:09:14 pinger WARNING: Hmmm....something strange
+Oct 24 15:09:17 pinger ERROR: Host not found
+Oct 24 15:09:20 pinger ERROR: OH NO!!!!!!
+Oct 24 15:09:23 pinger INFO: Random number works
+Oct 24 15:09:26 pinger ERROR: OH NO!!!!!!
+Oct 24 15:09:32 pinger INFO: Random number works
+Oct 24 15:09:35 pinger WARNING: Hmmm....something strange
+Oct 24 15:09:38 pinger ERROR: Host not found
+Oct 24 15:09:47 pinger WARNING: Opertaion timeout
+Oct 24 15:09:50 pinger WARNING: Hmmm....something strange
+Oct 24 15:09:53 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:09:56 pinger ERROR: Host not found
+Oct 24 15:09:59 pinger ERROR: OH NO!!!!!!
+Oct 24 15:10:02 pinger INFO: Hello there!!
+Oct 24 15:10:05 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:10:08 pinger WARNING: Opertaion timeout
+Oct 24 15:10:11 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:10:14 pinger ERROR: OH NO!!!!!!
+Oct 24 15:10:20 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:10:23 pinger WARNING: Opertaion timeout
+Oct 24 15:10:26 pinger ERROR: OH NO!!!!!!
+Oct 24 15:10:29 pinger INFO: Random number works
+Oct 24 15:10:32 pinger ERROR: Host not found
+Oct 24 15:10:35 pinger WARNING: Hmmm....something strange
+Oct 24 15:10:38 pinger ERROR: Host not found
+Oct 24 15:10:41 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:10:44 pinger ERROR: OH NO!!!!!!
+Oct 24 15:10:50 pinger WARNING: Opertaion timeout
+Oct 24 15:10:53 pinger WARNING: Hmmm....something strange
+Oct 24 15:11:02 pinger WARNING: Opertaion timeout
+Oct 24 15:11:05 pinger INFO: Random number works
+Oct 24 15:11:08 pinger ERROR: OH NO!!!!!!
+Oct 24 15:11:11 pinger ERROR: Host not found
+Oct 24 15:11:14 pinger WARNING: Opertaion timeout
+Oct 24 15:11:17 pinger WARNING: Opertaion timeout
+Oct 24 15:11:20 pinger INFO: Random number works
+Oct 24 15:11:23 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:11:26 pinger ERROR: Host not found
+Oct 24 15:11:29 pinger INFO: Random number works
+Oct 24 15:11:32 pinger INFO: Hello there!!
+Oct 24 15:11:35 pinger INFO: Random number works
+Oct 24 15:11:38 pinger ERROR: OH NO!!!!!!
+Oct 24 15:11:41 pinger WARNING: Hmmm....something strange
+Oct 24 15:11:44 pinger WARNING: Hmmm....something strange
+Oct 24 15:11:47 pinger INFO: Random number works
+Oct 24 15:11:50 pinger ERROR: Host not found
+Oct 24 15:11:56 pinger WARNING: Hmmm....something strange
+Oct 24 15:11:59 pinger INFO: Hello there!!
+Oct 24 15:12:02 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:12:05 pinger INFO: Random number works
+Oct 24 15:12:08 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:12:11 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:12:14 pinger ERROR: Host not found
+Oct 24 15:12:17 pinger WARNING: Opertaion timeout
+Oct 24 15:12:20 pinger ERROR: OH NO!!!!!!
+Oct 24 15:12:23 pinger WARNING: Opertaion timeout
+Oct 24 15:12:29 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:12:35 pinger INFO: Hello there!!
+Oct 24 15:12:38 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:12:41 pinger WARNING: Hmmm....something strange
+Oct 24 15:12:44 pinger INFO: Hello there!!
+Oct 24 15:12:47 pinger WARNING: Opertaion timeout
+Oct 24 15:12:50 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:12:56 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:12:59 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:13:02 pinger INFO: Random number works
+Oct 24 15:13:05 pinger ERROR: OH NO!!!!!!
+Oct 24 15:13:11 pinger ERROR: Host not found
+Oct 24 15:13:14 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:13:17 pinger WARNING: Hmmm....something strange
+Oct 24 15:13:20 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:13:23 pinger ERROR: OH NO!!!!!!
+Oct 24 15:13:26 pinger INFO: Hello there!!
+Oct 24 15:13:29 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:13:32 pinger INFO: Random number works
+Oct 24 15:13:38 pinger WARNING: Opertaion timeout
+Oct 24 15:13:41 pinger INFO: Hello there!!
+Oct 24 15:13:44 pinger WARNING: Hmmm....something strange
+Oct 24 15:13:47 pinger INFO: Random number works
+Oct 24 15:13:56 pinger INFO: Random number works
+Oct 24 15:13:59 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:14:02 pinger INFO: Hello there!!
+Oct 24 15:14:05 pinger WARNING: Hmmm....something strange
+Oct 24 15:14:11 pinger ERROR: Host not found
+Oct 24 15:14:17 pinger ERROR: OH NO!!!!!!
+Oct 24 15:14:20 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:14:23 pinger ERROR: Host not found
+Oct 24 15:14:29 pinger WARNING: Hmmm....something strange
+Oct 24 15:14:38 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:14:41 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:14:47 pinger INFO: Random number works
+Oct 24 15:14:50 pinger WARNING: Hmmm....something strange
+Oct 24 15:14:56 pinger INFO: Hello there!!
+Oct 24 15:14:59 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:15:05 pinger WARNING: Hmmm....something strange
+Oct 24 15:15:08 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:15:11 pinger WARNING: Opertaion timeout
+Oct 24 15:15:14 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:15:17 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:15:20 pinger INFO: Random number works
+Oct 24 15:15:23 pinger WARNING: Opertaion timeout
+Oct 24 15:15:26 pinger WARNING: Hmmm....something strange
+Oct 24 15:15:29 pinger ERROR: this is exception
+NoneType: None
+Oct 24 15:15:32 pinger ERROR: Host not found
+Oct 24 15:15:41 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:15:44 pinger ERROR: User not found
+NoneType: None
+Oct 24 15:15:47 pinger WARNING: Opertaion timeout
+Oct 24 15:15:50 pinger ERROR: Host not found
+Oct 24 15:15:53 pinger WARNING: Hmmm....something strange
+Oct 24 15:15:56 pinger ERROR: OH NO!!!!!!
+Oct 24 15:15:59 pinger ERROR: OH NO!!!!!!

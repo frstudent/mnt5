@@ -4,6 +4,7 @@ services:
   es-hot:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.11.0
     container_name: es-hot
+    hostname: es-hot
     environment:
       - node.name=es-hot
       - cluster.name=es-docker-cluster
@@ -11,7 +12,10 @@ services:
       - cluster.initial_master_nodes=es-hot,es-warm
       - bootstrap.memory_lock=true
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "ELASTIC_PASSWORD=netology"
     volumes:
+      - ./configs/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml:Z
+      - ./configs/elastic-certificates.p12:/usr/share/elasticsearch/config/elastic-certificates.p12
       - data01:/usr/share/elasticsearch/data:Z
     ulimits:
       memlock:
@@ -30,6 +34,7 @@ services:
   es-warm:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.11.0
     container_name: es-warm
+    hostname: es-warm
     environment:
       - node.name=es-warm
       - cluster.name=es-docker-cluster
@@ -37,7 +42,10 @@ services:
       - cluster.initial_master_nodes=es-hot,es-warm
       - bootstrap.memory_lock=true
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "ELASTIC_PASSWORD=netology"
     volumes:
+      - ./configs/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml:Z
+      - ./configs/elastic-certificates.p12:/usr/share/elasticsearch/config/elastic-certificates.p12
       - data02:/usr/share/elasticsearch/data:Z
     ulimits:
       memlock:
@@ -52,11 +60,14 @@ services:
   kibana:
     image: docker.elastic.co/kibana/kibana:7.11.0
     container_name: kibana
+    hostname: kibana
     ports:
       - 5601:5601
     environment:
       ELASTICSEARCH_URL: http://es-hot:9200
       ELASTICSEARCH_HOSTS: '["http://es-hot:9200","http://es-warm:9200"]'
+      ELASTICSEARCH_USERNAME: elastic
+      ELASTICSEARCH_PASSWORD: netology
     networks:
       - elastic
     depends_on:
@@ -66,10 +77,14 @@ services:
   logstash:
     image: docker.elastic.co/logstash/logstash:6.3.2
     container_name: logstash
+    hostname: logstash
+#    environment:
+#      ELASTICSEARCH_USERNAME: logstash_system
+#      ELASTICSEARCH_PASSWORD: netology
     ports:
-      - 5046:5046
+      - 9600:9600
     volumes:
-      - ./configs/logstash.conf:/etc/logstash/conf.d/logstash.conf:Z
+      - ./configs/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
       - ./configs/logstash.yml:/opt/logstash/config/logstash.yml:Z
     networks:
       - elastic
@@ -80,20 +95,26 @@ services:
   filebeat:
     image: "docker.elastic.co/beats/filebeat:7.2.0"
     container_name: filebeat
+    hostname: filebeat
     privileged: true
     user: root
     volumes:
       - ./configs/filebeat.yml:/usr/share/filebeat/filebeat.yml:Z
       - /var/lib/docker:/var/lib/docker:Z
       - /var/run/docker.sock:/var/run/docker.sock:Z
+      - ./logs:/var/log:Z
+    networks:
+      - elastic
     depends_on:
       - logstash
 
   some_application:
     image: library/python:3.9-alpine
     container_name: some_app
+    hostname: frstudent
     volumes:
       - ./pinger/run.py:/opt/run.py:Z
+      - ./logs:/var/log:Z
     entrypoint: python3 /opt/run.py
 
 volumes:
