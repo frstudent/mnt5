@@ -6,6 +6,8 @@
 
 ## Задание 2
 
+Пример программы с ошибкой - [study_sentry.py](./study_sentry.py)
+
 Переполнение стэка - https://sentry.io/share/issue/9fa5e04ff8e54217848ed781caca1a5d/
 
 Деление на ноль - https://sentry.io/share/issue/608e30d1484e4eaa86c0c3a51c22b2af/
