@@ -107,7 +107,7 @@ logstash            | [2021-10-20T12:25:49,496][INFO ][org.logstash.beats.Server
 
 И вот тут началось самое интересное. Дело в том, что ничего этого не получилось сделать без включенной авторизации. Пришлось основательно углубиться в поиск.
 
-Первым делом пришлось настроить SSL аутентификацию, потому что версия 7.11 требует только SSL для корректной работы. Здесь очень погла следующая инструкция - https://codingfundas.com/setting-up-elasticsearch-6-8-with-kibana-and-x-pack-security-enabled/index.html Но этого оказалось мало и пришлось добирать информацию по этой ссылке - https://discuss.elastic.co/t/set-password-and-user-with-docker-compose/225075 
+Первым делом пришлось настроить SSL аутентификацию, потому что версия 7.11 требует только SSL для корректной работы. Здесь очень помогла следующая инструкция - https://codingfundas.com/setting-up-elasticsearch-6-8-with-kibana-and-x-pack-security-enabled/index.html Но этого оказалось мало и пришлось добирать информацию по этой ссылке - https://discuss.elastic.co/t/set-password-and-user-with-docker-compose/225075 
 
 И вот здесь внезапно у меня возник вопрос к преподавателю:
 
