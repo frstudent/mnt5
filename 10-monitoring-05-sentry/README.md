@@ -6,9 +6,9 @@
 
 ## Задание 2
 
-https://sentry.io/share/issue/9fa5e04ff8e54217848ed781caca1a5d/
+Переполнение стэка - https://sentry.io/share/issue/9fa5e04ff8e54217848ed781caca1a5d/
 
-https://sentry.io/share/issue/608e30d1484e4eaa86c0c3a51c22b2af/
+Деление на ноль - https://sentry.io/share/issue/608e30d1484e4eaa86c0c3a51c22b2af/
 
 > Для выполнения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта, 
 после нажатия `Resolved`.
