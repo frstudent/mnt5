@@ -6,6 +6,11 @@
 
 ## Задание 2
 
+https://sentry.io/share/issue/9fa5e04ff8e54217848ed781caca1a5d/
+
+https://sentry.io/share/issue/608e30d1484e4eaa86c0c3a51c22b2af/
+
+
 Создайте python проект и нажмите `Generate sample event` для генерации тестового события.
 
 Изучите информацию, представленную в событии.
