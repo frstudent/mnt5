@@ -7,16 +7,12 @@
 Информация о сбое доступна [в виде краткой выжимки на русском языке](https://habr.com/ru/post/427301/) , а
 также [развёрнуто на английском языке](https://github.blog/2018-10-30-oct21-post-incident-analysis/).
 
-
-## Table Styling in Markdown
-
-|                      |                                                                                 | 
 | -- | -- |
 | Описание             | Red Row |
 | Предысторя           | Orange Row |
 | Причина              | Green Row |
 | Воздействие          | Green Row |
-| Обнаружение          | Green Row |
+| Обнаружение          | Green Row  Yellow row |
 | Реакция              | Green Row |
 | Восстановление       | Green Row |
 | Таймлайн             | Green Row |
