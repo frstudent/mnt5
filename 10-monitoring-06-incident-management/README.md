@@ -13,7 +13,7 @@
 | Предысторя           | Orange Row |
 | Причина              | Green Row |
 | Воздействие          | Green Row |
-| Обнаружение          | Green Row  Yellow row |
+| Обнаружение          | Green Row<br />Yellow row |
 | Реакция              | Green Row |
 | Восстановление       | Green Row |
 | Таймлайн             | Green Row |
