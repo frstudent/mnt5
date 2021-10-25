@@ -10,19 +10,18 @@
 
 ## Table Styling in Markdown
 
-.heatMap tr:nth-child(1) { background: red; }
-.heatMap tr:nth-child(2) { background: orange; }
-.heatMap tr:nth-child(3) { background: green; }
+|                      |                                                                                 | 
+| -- | -- |
+| Описание             | Red Row |
+| Предысторя           | Orange Row |
+| Причина              | Green Row |
+| Воздействие          | Green Row |
+| Обнаружение          | Green Row |
+| Реакция              | Green Row |
+| Восстановление       | Green Row |
+| Таймлайн             | Green Row |
+| Последующие действия | Green Row |
 
-<div class="heatMap">
-
-| Everything | in this table | is Centered |  and the table will only take up 70% of the screen width  | 
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
-
-</div>
 <!--
 ## Задача повышенной сложности
 
