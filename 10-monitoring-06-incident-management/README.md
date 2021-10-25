@@ -7,6 +7,34 @@
 Информация о сбое доступна [в виде краткой выжимки на русском языке](https://habr.com/ru/post/427301/) , а
 также [развёрнуто на английском языке](https://github.blog/2018-10-30-oct21-post-incident-analysis/).
 
+
+## Table Styling in Markdown
+
+<style>
+.heatMap {
+    width: 70%;
+    text-align: center;
+}
+.heatMap th {
+background: grey;
+word-wrap: break-word;
+text-align: center;
+}
+.heatMap tr:nth-child(1) { background: red; }
+.heatMap tr:nth-child(2) { background: orange; }
+.heatMap tr:nth-child(3) { background: green; }
+</style>
+
+<div class="heatMap">
+
+| Everything | in this table | is Centered |  and the table will only take up 70% of the screen width  | 
+| -- | -- | -- | -- |
+| This | is | a | Red Row |
+| This | is | an | Orange Row |
+| This | is | a | Green Row |
+
+</div>
+<!--
 ## Задача повышенной сложности
 
 Прослушайте [симуляцию аудиозаписи о инциденте](https://youtu.be/vw6I5DYWkNA?t=1), предоставленную 
@@ -26,3 +54,5 @@
 Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
 
 ---
+
+-->
